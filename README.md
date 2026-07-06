@@ -30,14 +30,14 @@ The best-performing model is selected based on evaluation metrics such as Accura
 
 ## Software Requirements
 -Python 3.11 or above
--Flask
--Scikit-learn
--Pandas
--NumPy
--Matplotlib
--Seaborn
--XGBoost
--Jupyter Notebook / Visual Studio Code
+Flask
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+XGBoost
+Jupyter Notebook / Visual Studio Code
 Installation
 
 ## Clone the repository:
@@ -48,11 +48,11 @@ Installation
 
 *cd CreditCardApprovalPrediction
 
--Install the required dependencies:
+Install the required dependencies:
 
--pip install -r requirements.txt
+pip install -r requirements.txt
 
--Run the Flask application:
+Run the Flask application:
 
 -python app.py
 ## Future Enhancements
