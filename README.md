@@ -72,8 +72,6 @@ KONDURU NEERAJA
 AI, Machine Learning, and Generative AI project  Skill Wallet & smart bridge
 
 
-https://github.com/user-attachments/assets/2478cc51-e973-4c8c-8b7e-cde305d9f4fd
-
 
 
 
