@@ -69,7 +69,12 @@ VEDICHARLLA DEVI
 JISHITHA PUDI           
 KONDURU NEERAJA         
 ## Developed As Part Of
-AI, Machine Learning, and Generative AI Skill Wallet Project
+AI, Machine Learning, and Generative AI project  Skill Wallet & smart bridge
+
+
+https://github.com/user-attachments/assets/2478cc51-e973-4c8c-8b7e-cde305d9f4fd
+
+
 
 
 
