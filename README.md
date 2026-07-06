@@ -64,11 +64,11 @@ Mobile application support
 Real-time credit score integration
 Fraud detection module
 
-## Team members
-POLIPATI SATHVIK
-VEDICHARLLA DEVI 
-JISHITHA PUDI
-KONDURU NEERAJA
+### Team members
+*POLIPATI SATHVIK
+*VEDICHARLLA DEVI 
+*JISHITHA PUDI
+*KONDURU NEERAJA
 ## Developed As Part Of
 AI, Machine Learning, and Generative AI Skill Wallet Project
 
