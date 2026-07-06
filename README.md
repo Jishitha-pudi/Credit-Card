@@ -29,74 +29,46 @@ XGBoost Classifier
 The best-performing model is selected based on evaluation metrics such as Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 
 ## Software Requirements
-Python 3.11 or above
-Flask
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-XGBoost
-Jupyter Notebook / Visual Studio Code
+-Python 3.11 or above
+-Flask
+-Scikit-learn
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-XGBoost
+-Jupyter Notebook / Visual Studio Code
 Installation
 
 ## Clone the repository:
 
-git clone <repository-url>
+*git clone <repository-url>
 
-Navigate to the project folder:
+*Navigate to the project folder:
 
-cd CreditCardApprovalPrediction
+*cd CreditCardApprovalPrediction
 
-Install the required dependencies:
+-Install the required dependencies:
 
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
-Run the Flask application:
+-Run the Flask application:
 
-python app.py
-
-CreditCardApprovalPrediction/
-
-│
-├── Dataset/
-│     ├── application_record.csv
-│     └── credit_record.csv
-│
-├── models/
-│     └── credit_card_model.pkl
-│
-├── templates/
-│     ├── home.html
-│     ├── index.html
-│     └── result.html
-│
-├── static/
-│     ├── css/
-│     ├── images/
-│     └── js/
-│
-├── app.py
-├── model.py
-├── requirements.txt
-├── README.md
-└── Credit_Card_Approval_Prediction.ipynb
-
-
+-python app.py
 ## Future Enhancements
-Cloud deployment using Render, AWS, or Azure
-User authentication and authorization
-Integration with banking APIs
-Explainable AI (XAI) for prediction transparency
-Mobile application support
-Real-time credit score integration
-Fraud detection module
+-Cloud deployment using Render, AWS, or Azure
+-User authentication and authorization
+-Integration with banking APIs
+-Explainable AI (XAI) for prediction transparency
+-Mobile application support
+-Real-time credit score integration
+-Fraud detection module
 
 ## Team members
-POLIPATI SATHVIK
-VEDICHARLLA DEVI 
-JISHITHA PUDI
-KONDURU NEERAJA
+-POLIPATI SATHVIK
+-VEDICHARLLA DEVI 
+-JISHITHA PUDI
+-KONDURU NEERAJA
 ## Developed As Part Of
 AI, Machine Learning, and Generative AI Skill Wallet Project
 
