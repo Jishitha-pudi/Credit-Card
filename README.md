@@ -70,6 +70,7 @@ JISHITHA PUDI
 KONDURU NEERAJA         
 ## Developed As Part Of
 AI, Machine Learning, and Generative AI project  Skill Wallet & smart bridge
+## demo video 
 https://drive.google.com/file/d/1QQipdWaLMldHok6i0ZvQH0PMy2cJxmLl/view?usp=drive_link
 
 
