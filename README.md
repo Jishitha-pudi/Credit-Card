@@ -29,14 +29,14 @@ XGBoost Classifier
 The best-performing model is selected based on evaluation metrics such as Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 
 ## Software Requirements
-Python 3.11 or above
-Flask
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-XGBoost
+Python 3.11 or above         
+Flask     
+Scikit-learn              
+Pandas           
+NumPy            
+Matplotlib             
+Seaborn            
+XGBoost           
 Jupyter Notebook / Visual Studio Code
 Installation
 
@@ -70,9 +70,6 @@ JISHITHA PUDI
 KONDURU NEERAJA         
 ## Developed As Part Of
 AI, Machine Learning, and Generative AI project  Skill Wallet & smart bridge
-
-
-
-
+https://drive.google.com/file/d/1QQipdWaLMldHok6i0ZvQH0PMy2cJxmLl/view?usp=drive_link
 
 
