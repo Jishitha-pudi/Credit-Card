@@ -1,16 +1,16 @@
-# Credit-Card
+### Credit-Card
 The Credit Card Approval Prediction System is a Machine Learning-based web application developed using Python, Flask, and Scikit-learn. The system predicts whether a credit card application is likely to be Approved or Rejected based on applicant information such as income, employment details, education, family status, housing type, and credit history.
 
 The application uses supervised machine learning algorithms to analyze historical applicant data and provide accurate real-time predictions. A user-friendly Flask web interface allows users to enter applicant details and instantly receive the prediction result, making the credit evaluation process faster, more consistent, and data-driven.
 
-## Tech Stack
+### Tech Stack
 Technology	Description
 Programming Language	Python
 Machine Learning	Scikit-learn (Logistic Regression, Decision Tree, Random Forest, XGBoost)
 Web Framework	Flask
 Frontend	HTML, CSS, Bootstrap, JavaScript
 Libraries	Pandas (Data Processing), NumPy (Numerical Computation), Matplotlib (Visualization), Seaborn (Visualization), Pickle (Model Serialization)
-## Features
+### Features
 Predicts whether a credit card application will be Approved or Rejected
 Interactive Flask web application
 User-friendly and responsive interface
@@ -28,7 +28,7 @@ Random Forest Classifier
 XGBoost Classifier
 The best-performing model is selected based on evaluation metrics such as Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 
-## Software Requirements
+### Software Requirements
 Python 3.11 or above         
 Flask     
 Scikit-learn              
@@ -40,7 +40,7 @@ XGBoost
 Jupyter Notebook / Visual Studio Code
 Installation
 
-## Clone the repository:
+### Clone the repository:
 
 git clone <repository-url>
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 Run the Flask application:
 
 python app.py
-## Future Enhancements
+### Future Enhancements
 Cloud deployment using Render, AWS, or Azure
 User authentication and authorization
 Integration with banking APIs
